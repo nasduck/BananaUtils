@@ -1,4 +1,4 @@
-package com.duck.bananautils;
+package com.zoopark.bananautils;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

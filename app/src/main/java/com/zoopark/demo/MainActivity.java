@@ -1,4 +1,4 @@
-package com.duck.demo;
+package com.zoopark.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

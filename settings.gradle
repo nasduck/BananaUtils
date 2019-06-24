@@ -1,1 +1,1 @@
-include ':app', ':bananautils'
+include ':app', ':lib'

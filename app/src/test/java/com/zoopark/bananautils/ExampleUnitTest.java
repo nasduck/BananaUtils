@@ -1,4 +1,4 @@
-package com.duck.bananautils;
+package com.zoopark.bananautils;
 
 import org.junit.Test;
 
